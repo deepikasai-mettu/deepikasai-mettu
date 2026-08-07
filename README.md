@@ -1,6 +1,6 @@
 # Hi, I'm Deepikasai Mettu 👋
 
-**AI Engineer · ServiceNow Certified System Administrator · New York, USA**
+**AI Engineer · New York, USA**
 
 I build **AI agents and enterprise automation that ship to production** — 4+ years of experience spanning agentic AI workflows, RAG pipelines, and LLM-driven systems, plus large-scale ServiceNow ITSM implementations.
 
