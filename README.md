@@ -1,16 +1,16 @@
 # Hi, I'm Deepikasai Mettu 👋
 
-**AI Engineer · ServiceNow Certified System Administrator · Boston, MA**
+**AI Engineer · ServiceNow Certified System Administrator · New York, USA**
 
 I build **AI agents and enterprise automation that ship to production** — 4+ years of experience spanning agentic AI workflows, RAG pipelines, and LLM-driven systems, plus large-scale ServiceNow ITSM implementations.
 
-- 🤖 Deployed **two production AI agent systems** serving **1000+ users** across Massachusetts state agencies
-- ⚙️ Engineered **300+ ServiceNow automation workflows** at Deloitte (Flow Designer, IntegrationHub, ITSM)
+- 🤖 Deployed **two production AI agent systems** serving **thousands of users** across Massachusetts state agencies
 - 🎓 M.S. Data Analytics Engineering @ Northeastern University (Dec 2025)
+- ⚙️ Engineered **300+ ServiceNow automation workflows** at Deloitte (Flow Designer, IntegrationHub, ITSM)
 - 🏅 ServiceNow CSA certified · 7 awards for engineering excellence
-- 🔍 Open to **AI Engineer**, **ServiceNow Developer**, and **Software/Data Engineering** roles
+- 🔍 Open to **AI Engineer**, **Software/Data Engineering**, and **ServiceNow Developer** roles
 
-🌐 **Portfolio:** [deepikasai-mettu.github.io](https://deepikasai-mettu.github.io/) · 💼 **LinkedIn:** [deepikasai-mettu](https://www.linkedin.com/in/deepikasai-mettu-81a60416b/) · ✉️ mettu.d@northeastern.edu
+🌐 **Portfolio:** [deepikasai-mettu.github.io](https://deepikasai-mettu.github.io/) · 💼 **LinkedIn:** [deepikasai-mettu](https://www.linkedin.com/in/deepikasai-mettu/) · ✉️ mettu.d@northeastern.edu
 
 ---
 
@@ -36,14 +36,6 @@ I build **AI agents and enterprise automation that ship to production** — 4+ y
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-a78bfa?style=flat-square)
 ![Fine-tuning](https://img.shields.io/badge/Model_Fine--tuning-a78bfa?style=flat-square)
 
-**ServiceNow**
-
-![ITSM](https://img.shields.io/badge/ITSM-00c487?style=flat-square&logo=servicenow&logoColor=white)
-![Flow Designer](https://img.shields.io/badge/Flow_Designer-00c487?style=flat-square&logo=servicenow&logoColor=white)
-![IntegrationHub](https://img.shields.io/badge/IntegrationHub-00c487?style=flat-square&logo=servicenow&logoColor=white)
-![Virtual Agent](https://img.shields.io/badge/Virtual_Agent-00c487?style=flat-square&logo=servicenow&logoColor=white)
-![Now Assist](https://img.shields.io/badge/Now_Assist-00c487?style=flat-square&logo=servicenow&logoColor=white)
-
 **Languages & Cloud**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,12 +53,13 @@ I build **AI agents and enterprise automation that ship to production** — 4+ y
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
----
+**ServiceNow**
 
-## 📊 GitHub Stats
-
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepikasai-mettu&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0c0714)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikasai-mettu&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0c0714)
+![ITSM](https://img.shields.io/badge/ITSM-00c487?style=flat-square&logo=servicenow&logoColor=white)
+![Flow Designer](https://img.shields.io/badge/Flow_Designer-00c487?style=flat-square&logo=servicenow&logoColor=white)
+![IntegrationHub](https://img.shields.io/badge/IntegrationHub-00c487?style=flat-square&logo=servicenow&logoColor=white)
+![Virtual Agent](https://img.shields.io/badge/Virtual_Agent-00c487?style=flat-square&logo=servicenow&logoColor=white)
+![Now Assist](https://img.shields.io/badge/Now_Assist-00c487?style=flat-square&logo=servicenow&logoColor=white)
 
 ---
 
