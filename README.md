@@ -4,13 +4,13 @@
 
 I build **AI agents and enterprise automation that ship to production** — 4+ years of experience spanning agentic AI workflows, RAG pipelines, and LLM-driven systems, plus large-scale ServiceNow ITSM implementations.
 
-- 🤖 Deployed **two production AI agent systems** serving **thousands of users** across Massachusetts state agencies
+- 🤖 Deployed **two production AI agent systems** serving **10,000+ daily interactions** across Massachusetts state agencies
 - 🎓 M.S. Data Analytics Engineering @ Northeastern University (Dec 2025)
 - ⚙️ Engineered **300+ ServiceNow automation workflows** at Deloitte (Flow Designer, IntegrationHub, ITSM)
 - 🏅 ServiceNow CSA certified · 7 awards for engineering excellence
 - 🔍 Open to **AI Engineer**, **Software/Data Engineering**, and **ServiceNow Developer** roles
 
-🌐 **Portfolio:** [deepikasai-mettu.github.io](https://deepikasai-mettu.github.io/) · 💼 **LinkedIn:** [deepikasai-mettu](https://www.linkedin.com/in/deepikasai-mettu/) · ✉️ mettu.d@northeastern.edu
+🌐 **Portfolio:** [deepikasai-mettu.github.io](https://deepikasai-mettu.github.io/) · 💼 **LinkedIn:** [deepikasai-mettu](https://www.linkedin.com/in/deepikasai-mettu/) · ✉️ deepikasai.mettu@gmail.com
 
 ---
 
@@ -19,9 +19,9 @@ I build **AI agents and enterprise automation that ship to production** — 4+ y
 | Project | What it does | Stack |
 |---|---|---|
 | 📝 [**GrantWell**](https://github.com/deepikasai-mettu/FFIO-GrantWell) | GenAI grant-writing assistant that parses federal NOFO documents and drafts narratives — in production for Massachusetts FFIO | AWS Bedrock · RAG · Python · React |
-| 🤖 [**OpsGenie**](https://github.com/deepikasai-mettu/OpsGenie-Cohort3) | IT-ops chatbot for MA Health & Human Services with source citations, PII redaction, and built-in LLM evaluation | Bedrock · Kendra · Lambda · CDK |
-| 🎨 [**Text-Conditioned Diffusion**](https://github.com/deepikasai-mettu/generative-deep-learning-project) | Conditional diffusion model using text embeddings — transformers, text-image alignment, multimodal evaluation | PyTorch · Diffusion · Transformers |
-| 🧠 [**EEG Seizure Classification**](https://github.com/deepikasai-mettu/EEG_classification) | Epilepsy detection on CHB-MIT EEG data — feature extraction, SMOTE, RF/DT/CNN comparison (97.7% accuracy) | Python · MNE · scikit-learn |
+| 🤖 [**OpsGenie**](https://github.com/deepikasai-mettu/OpsGenie-Cohort3) | IT-ops chatbot for MA Health & Human Services with source citations, PII redaction, and built-in LLM evaluation | Bedrock · Kendra · OpenSearch · Lambda · CDK |
+| 🎨 [**Text-Conditioned Diffusion**](https://github.com/deepikasai-mettu/generative-deep-learning-project) *(coursework)* | Conditional diffusion model using text embeddings — transformers, text-image alignment, multimodal evaluation | PyTorch · Diffusion · Transformers |
+| 🧠 [**EEG Seizure Classification**](https://github.com/deepikasai-mettu/EEG_classification) *(coursework)* | Epilepsy detection on CHB-MIT EEG data — feature extraction, SMOTE, RF/DT/CNN comparison (97.7% accuracy) | Python · MNE · scikit-learn |
 
 ---
 
@@ -46,7 +46,7 @@ I build **AI agents and enterprise automation that ship to production** — 4+ y
 ![AWS](https://img.shields.io/badge/AWS_Bedrock_·_Lambda_·_S3-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Data**
+**Data** *(coursework & personal projects)*
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%2FELT_Pipelines-0ea5e9?style=flat-square)
